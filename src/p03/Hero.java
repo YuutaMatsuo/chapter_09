@@ -11,6 +11,7 @@ public class Hero {
 	this.hp = 100;
 	}
 	
+	//コンストラクタ②（引数を2つ受け取る）
 	public Hero(String name,int hp) {
 	this.name = name;
 	this.hp = hp;
